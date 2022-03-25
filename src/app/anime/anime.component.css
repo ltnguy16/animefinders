@@ -165,7 +165,7 @@ button, .tag {
 }
 
 .anime-image-mobile {
-	width: 50%;
+	width: auto;
 	height: 100%;
 }
 
